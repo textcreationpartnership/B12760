@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders conceiued by the lords of his Maiesties Priuie Councell, and by his Highnesse speciall direction, commanded to be put in execution, for the restraint of killing, and eating of flesh this next Lent, ...</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12760</idno><idno type="EEBO-CITATION">99892791</idno>
+  <idno type="VID">187180</idno>
+  <idno type="EEBO-PROQUEST">2240923398</idno>
+  
+            <idno type="STC">STC 8412</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[84]</idno>
+            <idno type="PROQUEST">ocm99892791</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892791e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187180)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders conceiued by the lords of his Maiesties Priuie Councell, and by his Highnesse speciall direction, commanded to be put in execution, for the restraint of killing, and eating of flesh this next Lent, ...</title>
+                  <author>England and Wales. Privy Council.</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1607. [i.e. 1608]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Dated below caption title: 22. Ianuary, in the fift yeere of his Maiesties reigne ...</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Meat industry and trade --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Fasting --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Lent --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187180:1"/>
+            <head>❧ Orders conceiued by the Lords of his Maiesties <hi>Priuie Counsell, and by his Highnesse speciall direction, commanded to be put in execution for the restraint of killing, and eating of Flesh this next Lent, and to be executed aswell by the Lord Maior within the Citie and Suburbs of London, and by the Officers of the Liberties and exempt places in and about the same, as by order to be prescribed by the Lords Lieutenants of all the Counties of the Realme, to the Iustices of Peace, Lords of Liberties, and Officers of Corporate Townes.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>22. Ianuary, in the fift yeere of his Maiesties Reigne of great Britaine, France and Ireland.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most Excellent Maiestie vnderstanding of the great disorders heretofore, and especially the last Lent, committed in killing and eating Flesh in the time of Lent, chiefly in the Citie of London, and the Liberties thereto adioyning, straightly chargeth and commandeth, That these Or<g ref="char:EOLhyphen"/>ders following, be obserued and put in execution.</p>
+            <p>First, there shall bee onely eight Butchers licenced by the Lord Maior within the Citie of London, <hi>viz.</hi> foure in Eastcheape, and foure in S. Ni<g ref="char:EOLhyphen"/>cholas Shambles, who shall be of the poorer sort, and shall not pay any thing for their Licences, nor ioyne with them any partners.</p>
+            <p>That euery of the said Butchers so to bee licenced within the Citie, and Liberties thereof, doe vtter and sell in their open Shops, in such sort as in open time they are accustomed to doe, and at such Rates and prices as shall be set downe by Order of the Lord Maior of London for that City, and the Liberties thereof: and besides euery Butcher shall keepe a perfect Booke what quantity of Flesh they kill euery day, and of what kindes, and to what persons they sell and vtter the same, and the said Butchers to certifie the Lord Maior, to the end the Lords of his Maiesties priuy Counsell may bee informed by him, how the Lawes and Statutes in this behalfe prouided, are obserued within the said Citie and Liberties thereof.</p>
+            <p>That there be licenced to kill and vtter Flesh in the Suburbes of the said Citie, as in the Counties of Middlesex and Surrey neere vnto London, onely tenne Butchers, and these to bee licenced by the Iustices within the seuerall Limits, whereof two to be of the <hi>Quorum,</hi> that is, two without Temple Barre in the Parish of S. Clement Danes, two without Smithfielde Barres in the Parish of S. Pulchres, or Clarketonwell, or one of them, one in Whitecrosse streete, one in Norton Folgate, one in White Chappell, one in S. Katherines, two in Southwarke, and for the City of Westminster, and the Liberties thereof, two Butchers to be licenced by the chiefe Officer of that Liberty, and those to bee as before expressed, for the said Citie and the Liberties, of the poorer sort inhabiting in those places, and to be licenced without any money, or other consideration to be giuen for the same, and to bee bound to obserue the like Orders in euery respect, as those that are to be appointed for London, and the said Clerke of the Market, Officer and Iustice, there to see them, and to set the prices of the Victuall to be vttered in those places.</p>
+            <p>That no person be permitted to kill or sell any Flesh but to those that are licenced, nor in any other place then before is specified, vpon paine to forfeit the Flesh to bee giuen to the poore in the prisons, and to suffer imprisonment.</p>
+            <p>That the Constables, Churchwardens, and other publique Officers bee authorised in London, and the Liberties thereof, by the Lord Maior, and by the Iustices in the Counties of Middlesex and Surrey, and the forenamed Officers in Westminster, to make search, and to see that the licenced But<g ref="char:EOLhyphen"/>chers, nor any other doe kill or vtter any Flesh, nor doe any thing contrary to these Orders.</p>
+            <p>And for the better knowledge of the trueth of disorders in this kind, and redresse of the inconueni<g ref="char:EOLhyphen"/>ences, the Lord Maior of London, and euery other Officer here appointed, shall call before them, and send for any of the seruants of any Inholders, Victuallers, Tauerners, and keepers of ordinary Ta<g ref="char:EOLhyphen"/>bles, and such other that vtter Victuals, to examine them vpon their corporall Oathes, what Flesh is, or hath bene during the Lent season, dressed, killed, vttered, or eaten in their houses, which if they shall refuse to doe, then to commit to prison the said seruants so refusing vpon their oathes to declare the trueth.</p>
+            <pb facs="tcp:187180:2"/>
+            <p>That the Lord Maior himselfe shall graunt no Warrant for buying of Flesh in Lent, but to such as shall haue or shew to him licence in writing, according to the Lawes of the Realme to eate Flesh, and the same licence to be viewed and Registred, and Bookes to be kept thereof, to be shewed when the same shall be required, vnlesse it be to Embassadours and Agents of forraine Princes.</p>
+            <p>That the Lord Maior shall now presently before Lent, or at the beginning thereof, cause all In<g ref="char:EOLhyphen"/>holders, keepers of Ordinarie Tables, Victuallers, Alehouse keepers, and Tauernors within the Citie and liberties thereof to appeare before him, or such persons as he shall appoint meete for that purpose, and shall take bonds with sufficient Suerties of euery of them in good summes of money, <hi>viz.</hi> one hundred pound the principall, and the Suerties thirty pound apeece to his Maiesties vse, not to dresse any Flesh in their houses this Lent time for any respect, nor suffer it to be eaten, except it be for some such person that lyeth in their house, that also hath licence through sicknesse, or other necessary cause to eate Flesh. Also like bonds shall be taken of the Poulters, not to vtter any Poultry ware, but to such as shall be likewise licensed to eate Flesh, and that such as will not giue such bonds, that they be secluded from all vtterance of Victualls during the Lent season, excepting those Poulters that doe ordinarily serue his Maiesties houshold, of whome like bonds shall be taken by his Maiesties Offi<g ref="char:EOLhyphen"/>cers of the Greenecloth: the like bonds with Suerties shall be taken of the like persons vpon like pe<g ref="char:EOLhyphen"/>nalties by the chiefe Officer of Westminster, and the liberties thereof.</p>
+            <p>And for the Butchers and other that come with Victualls of flesh out of the Countrie to the Citie, the Lord Maior shall cause certaine persons to watch at the Gates and other like places in the Sub<g ref="char:EOLhyphen"/>burbs where Flesh may be brought in, to view and search, and to intercept the same. The Carriers of the said Victualls of Flesh if any shall be taken, to be guided to the persons houses that haue licence, and this watch to be continued dayly during the whole time of Lent: And if any of those watchmen be found negligent and corrupt in his charge, then he to be committed to prison, there to continue du<g ref="char:EOLhyphen"/>ring the whole Lent. And in case the same shall be found to be brought to any person not warranted, or licensed to eate it as is aforesayd, then the same to be forfeited and sold at the direction of the Lord Maior for the vse of the poore in the Hospitalls and Prisons in the Citie, and the bringers to be impri<g ref="char:EOLhyphen"/>soned.</p>
+            <p>And for that it is to be doubted that the Fishmongers, vpon the obseruation of the said Orders, will take occasion thereby to inhanse the prices as well of fresh as of Sea fish, it is thought meete that the Lord Maior shall take order with the sayd Fishmongers, that as well the salt as fresh fish shall be vttered at reasonable prices.</p>
+            <p>That euery of the Butchers to be licensed as aforesayd, be bound in a sufficient bond with good Suerties to his Maiesties vse, to obserue these orders in euery respect, and these bonds to be taken by the Lord Maior, and other the Officers aforesayd.</p>
+            <p>And as those orders are expresly deuised to be executed in the Citie of London, and places neere to the same: so his Maiesties pleasure and commaundement is, that the execution of these or like orders be performed by the Commaundement of his Maiesties Lieutenants to be sent to the Iustices of Peace in all Shires within their Rule, and to all other Officers in Townes Corporate, or in any Liberties, with like order for bonds to be taken to his Maiesties vse.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. Anno Dom. 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
